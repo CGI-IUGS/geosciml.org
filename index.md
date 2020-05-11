@@ -39,7 +39,7 @@ GeoSciML is a data model and data transfer standard  for geological data  - from
     * [version 3.2](http://geosciml.org/doc/geosciml/3.2/documentation/) (2013)
     * [version 3.1](http://geosciml.org/doc/geosciml/3.1/documentation/)
     * [version 3.0](http://geosciml.org/doc/geosciml/3.0/documentation/) (2012)
-        * an example database for mapping geological data to GeoSciML v3 web services [(zipfile)](../reference_database/reference_database_2013-11-07.zip)
+        * an example database for mapping geological data to GeoSciML v3 web services [(zipfile)](reference_database/reference_database_2013-11-07.zip)
     * [version 2.1](http://geosciml.org/doc/geosciml/2.1/)
     * [version 2.0](http://geosciml.org/doc/geosciml/2.0/) (2009)
     * [version 1.1.1](http://geosciml.org/doc/geosciml/1.1.1/)
