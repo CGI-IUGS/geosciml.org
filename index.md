@@ -30,7 +30,7 @@ GeoSciML is a data model and data transfer standard  for geological data  - from
         * XSD schemas are now located at the [OGC schema repository](http://schemas.opengis.net/gsml)
         * "GeoSciML-Portrayal", the package for simple WFS and WMS services, is now called "GeoSciML-Lite".
     * All other aspects of the v4.1 model and schemas are the same as v4.0.  
-&nbsp;   
+
 --- 
 
 ### Previous versions of  GeoSciML and GeoSciML-Portrayal
