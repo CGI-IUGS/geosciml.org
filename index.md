@@ -1,3 +1,9 @@
+---
+title: GeoSciML
+layout: default
+---
+
+
 # GeoSciML
 
 GeoSciML is a data model and data transfer standard  for geological data  - from basic  map data to complex relational geological databases.
