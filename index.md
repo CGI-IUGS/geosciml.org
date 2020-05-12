@@ -1,4 +1,7 @@
-
+---
+title: GeoSciML
+layout: default
+---
 
 
 # GeoSciML
