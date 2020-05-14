@@ -41,22 +41,22 @@ GeoSciML is a data model and data transfer standard  for geological data  - from
 
 ### Previous versions of  GeoSciML and GeoSciML-Portrayal
 1. GeoSciML
-    * [version 4.0](http://geosciml.org/doc/geosciml/4.0/documentation/) (2015)
-    * [version 3.2](http://geosciml.org/doc/geosciml/3.2/documentation/) (2013)
-    * [version 3.1](http://geosciml.org/doc/geosciml/3.1/documentation/)
-    * [version 3.0](http://geosciml.org/doc/geosciml/3.0/documentation/) (2012)
+    * [version 4.0](resources/doc/geosciml/4.0/documentation/) (2015)
+    * [version 3.2](resources/doc/geosciml/3.2/documentation/) (2013)
+    * [version 3.1](resources/doc/geosciml/3.1/documentation/)
+    * [version 3.0](resources/doc/geosciml/3.0/documentation/) (2012)
         * an example database for mapping geological data to GeoSciML v3 web services [(zipfile)](resources/reference_database/reference_database_2013-11-07.zip)
-    * [version 2.1](http://geosciml.org/doc/geosciml/2.1/)
-    * [version 2.0](http://geosciml.org/doc/geosciml/2.0/) (2009)
-    * [version 1.1.1](http://geosciml.org/doc/geosciml/1.1.1/)
-    * [version 1.1.0](http://geosciml.org/doc/geosciml/1.1.0/)
-    * [version 1.0.0](http://geosciml.org/doc/geosciml/1.0.0/) (2005)
-    * [version 0.9.0](http://geosciml.org/doc/geosciml/0.9.0/)
+    * [version 2.1](resources/doc/geosciml/2.1/)
+    * [version 2.0](resources/doc/geosciml/2.0/) (2009)
+    * [version 1.1.1](resources/doc/geosciml/1.1.1/)
+    * [version 1.1.0](resources/doc/geosciml/1.1.0/)
+    * [version 1.0.0](resources/doc/geosciml/1.0.0/) (2005)
+    * [version 0.9.0](resources/doc/geosciml/0.9.0/)
 
 
 2. GeoSciML-Portrayal (this is now the GeoSciML-Lite package of GeoSciML v4)
-    * [version 2.0](http://geosciml.org/doc/geosciml-portrayal/2.0.1/) (2013)
-    * [version 1.0](http://geosciml.org/doc/geosciml-portrayal/1.0/) (2011)
+    * [version 2.0](resources/doc/geosciml-portrayal/2.0.1/) (2013)
+    * [version 1.0](resources/doc/geosciml-portrayal/1.0/) (2011)
         *  a guide for building GeoSciML-Portrayal (version 1) web services [(pdf)](http://repository.usgin.org/sites/default/files/dlio/files/2012/u11/geosciml-portrayalcookbook0.7.pdf) - &copy; [USGIN](http://usgin.org/USGIN)
 
 3. Geologic Time
