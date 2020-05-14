@@ -12,7 +12,7 @@ GeoSciML is a data model and data transfer standard  for geological data  - from
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Many thanks to the China Geological Survey for their great work.
 
-* **[GeoSciML News Archive](/news-archive.html)**
+* **[GeoSciML News Archive](news-archive.html)**
 
 ------
 
