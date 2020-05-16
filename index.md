@@ -20,8 +20,8 @@ GeoSciML is a data model and data transfer standard  for geological data  - from
 
 * **Data Model Documentation**
     * OGC Implementation Specification Document [(html)](http://docs.opengeospatial.org/is/16-008/16-008.html) 
-    * UML model [(html)](http://www.geosciml.org/doc/geosciml/4.1/documentation/html/)
-    * Enterprise Architect UML file [(eap)](http://www.geosciml.org/doc/geosciml/4.1/documentation/uml)
+    * UML model [(html)](resources/doc/geosciml/4.1/documentation/html/)
+    * Enterprise Architect UML file [(eap)](resources/doc/geosciml/4.1/documentation/uml)
     * UML summary wall poster [(pdf)](https://portal.opengeospatial.org/files/?artifact_id=72895)
 
 * **XML schemas and encoding examples** [(xsd, xml)](http://schemas.opengis.net/gsml/4.1/)
@@ -60,8 +60,8 @@ GeoSciML is a data model and data transfer standard  for geological data  - from
         *  a guide for building GeoSciML-Portrayal (version 1) web services [(pdf)](http://repository.usgin.org/sites/default/files/dlio/files/2012/u11/geosciml-portrayalcookbook0.7.pdf) - &copy; [USGIN](http://usgin.org/USGIN)
 
 3. Geologic Time
-    * [version 2.0](http://schemas.geosciml.org/geotime/2.0/) (2009)
+    * [version 2.0](resources/geotime/2.0/) (2009)
 
 4. Utilities
-    * [version 1.0](http://schemas.geosciml.org/cgiutilities/3.0/)
-    * [version 1.0](http://schemas.geosciml.org/cgiutilities/1.0/) (2008)
+    * [version 1.0](resources/cgiutilities/3.0/)
+    * [version 1.0](resources/cgiutilities/1.0/) (2008)

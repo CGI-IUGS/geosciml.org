@@ -8,7 +8,7 @@ title: Vocabularies
 For description of geological features, geological time, mineral occurrences, and mining-related features
 
 #### **Vocabularies for GeoSciML and EarthResourceML**
-* [Full list of all CGI vocabularies](http://resource.geosciml.org/def/voc/)
+* [Full list of all CGI vocabularies](vocabularies-full-list.html)
     * includes links to the CGI vocabulary service, SPARQL endpoints, and RESTful API's for all vocabularies
 * [Vocabulary files for GeoSciML](http://resource.geosciml.org/vocabulary/cgi/2016/) (RDF, MS Excel)
 * [Vocabulary files for the EarthResourceML](http://resource.geosciml.org/vocabulary/earthresourceml/2016/) (RDF, MS Excel)
