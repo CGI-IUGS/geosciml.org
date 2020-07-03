@@ -23,3 +23,6 @@
         <div id="ga-colour-strip"></div>
     </div>
 </div>
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
